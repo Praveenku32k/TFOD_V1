@@ -630,6 +630,8 @@ Finally displaying the images in the notebook with prediction.
 
 <img src="https://i.ibb.co/4mxY5Rt/Screenshot-from-2020-08-04-18-58-08.png" alt="Screenshot-from-2020-08-04-18-58-08" border="0">
 
+<img src="img/ex_generated_image.png" alt="Example of generated image "  title="Example of generated image " />
+<img src="https://miro.medium.com/max/2544/1*369UNW8C2FasQoR4aoqXCQ.png" id="img" style="width: 238px; height: 136px;">
 
 ### 14. Working with Videos
 ### 15. Converting to Tflite
